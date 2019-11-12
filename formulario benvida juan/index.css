@@ -1,0 +1,20 @@
+.titulo{
+	margin-left: 3cm;
+	font-size: 15pt;
+	color: green;
+}
+.margenes{
+	margin-left: 3cm
+	}
+.circulos{
+	border: 3px solid yellow;
+  border-radius: 18px;
+}
+.circulos2{
+	border: 3px solid yellow;
+  border-radius: 18px;
+}
+.cuadrados{
+	background-color: #3CBC8D;
+  	color: white;
+}
