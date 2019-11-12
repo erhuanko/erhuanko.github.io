@@ -1,0 +1,26 @@
+body{
+	background-color: green;
+}
+.Portada{
+	color: white;
+	text-align: center;
+}
+.Bienvenida{
+	font-family: sans-serif;	
+}
+.Disfruten{
+	font-family: sans-serif;
+}
+.Texto{
+	font-family: fantasy;
+	font-size: 30px
+}
+.jujle{
+	color: white;
+}
+.wiki{
+	color: white;
+}
+img{
+	width:300px; height:200px; 
+}
